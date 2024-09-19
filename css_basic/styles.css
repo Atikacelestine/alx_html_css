@@ -1,4 +1,4 @@
-body,{
+body,main{
     display: flex;
 }
 body{
@@ -6,8 +6,6 @@ body{
 }
 main{
     flex: auto;
-}
-main{
     flex-direction: row;
 }
 article{
