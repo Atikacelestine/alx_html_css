@@ -2,6 +2,7 @@ body,main{
     display: flex;
 }
 body{
+    background color: burlywood;
     flex-direction: column;
 }
 main{
@@ -15,4 +16,7 @@ aside{flex: 1;
 }
 article,aside{
     overflow-y: auto;
+}
+.logo{
+    text-align:left;
 }
