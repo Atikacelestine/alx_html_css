@@ -71,7 +71,7 @@ a {
 /* Header Styles */
 /* ----------------------------------------- */
 header {
-	background-image:url("images/background.png")
+	background-image:url("/Users/CELESTINE/css_advanced/headphoneimages/background.png")
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -191,7 +191,7 @@ header nav a:hover {
 /* Dark Styles */
 /* ----------------------------------------- */
 #dark {
-	background-image: url("/headphones/images/results.png");
+	background-image: url("/Users/CELESTINE?css_advanced/headphone/images/results.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
